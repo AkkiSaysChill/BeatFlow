@@ -47,7 +47,7 @@ Make sure you have Flutter installed on your machine before running the app.
 
 <div style="display:flex;">
     
-    ![Screenshot 1](https://github.com/AkkiSaysChill/BeatFlow/assets/97971429/2be7cb40-5162-4968-bd41-11dbeea03613){: width="33.33%" height="50%"}
+    <img src="https://github.com/AkkiSaysChill/BeatFlow/assets/97971429/2be7cb40-5162-4968-bd41-11dbeea03613" alt="hehe" style="width:100%;height:50%;"> 
 
     <img src="https://github.com/AkkiSaysChill/BeatFlow/assets/97971429/360d35d9-0cfb-4dd5-bb9c-6602e5ba39aa" alt="Screenshot 2" style="width:33.33%;">
     <img src="https://github.com/AkkiSaysChill/BeatFlow/assets/97971429/0728d147-7b81-47a7-9126-31047949651e" alt="Screenshot 3" style="width:33.33%;">
