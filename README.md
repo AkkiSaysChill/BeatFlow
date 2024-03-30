@@ -64,9 +64,6 @@ Contributions are welcome! If you'd like to contribute to BeatFlow, please follo
 5. Push to the branch (`git push origin feature/yourfeature`).
 6. Create a new Pull Request.
 
-## License
-
-BeatFlow is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 
